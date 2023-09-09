@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AZbhkRiEZvvwL6Y4qTYIDP6DlFplhScSMAJFrfZcXRU=",
+  "Source": "myseconapp",
+  "BasePath": "_content/myseconapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
